@@ -1,0 +1,2 @@
+# wcryebdec
+WannaCry ETERNALBLUE Decoder
